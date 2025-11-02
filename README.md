@@ -39,7 +39,7 @@ Index|Version|Description
 -|-|-
 ok-1.1|Versão 01|API num aquivo main.go, procedural, simples para ser tipo um arquivo macro, um unico arquivo.
 ok-1.2|Versão 02|Evoluir ele para MVC, dividindo as responsabilidades
-ok-1.3|Versão 03|Uso de Access_token padrão JWT
+1.3|Versão 03|Uso de Access_token padrão JWT
 1.4|Versão 05|micro serviço
 1.5|Versão 06|teste unitário
 1.6|Versão 07|FrontEnd - Angular
